@@ -4,8 +4,6 @@ AD CS ESC9 is a cool attack that takes advantage of a certificate template havin
 
 This is an uncommon misconfiguration, but AD CS misconfigurations like ESC1, 3, 4, 8, and 11 are extremely common. This one is just flashy and allows Red Teams to pivot to other accounts and escalate privileges quietly. 
 
-AD CS is extremely important for OTR due to trends encountered throughout the state in Pentests and even on an IR. Educating the training audience on AD CS misconfigurations may help prevent future attacks using these misconfiguration to wreck havoc.
-
 ## Dependecies
 + Windows updates on servers May 10, 2022 and September 10, 2025
 + Cetificate Authority Role on Windows Server 2019+
